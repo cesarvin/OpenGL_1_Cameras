@@ -1,0 +1,21 @@
+Ejecutar el archivo RenderOpenGL.py
+
+Controles:
+
+W para mover en la pos Y+ (arriba)
+S para mover en la pos Y- (abajo)
+A para mover en la pos X- (derecha)
+D para mover en la pos Y+ (izquierda)
+Z para mover en la pos Z- (alejar)
+X para mover en la pos Z+ (acercar)
+
+UP para rotar en eje X+
+DOWN para rotar en eje X-
+LEFT para rotar en eje Z-
+RIGTH para rotar en eje Z+ 
+Y para rotar en eje Y-
+U para rotar en eje Y+
+
+F5 para volver a la posición inicial
+
+ESC para salir
